@@ -1,4 +1,4 @@
-# Anti-Epliepsy-Glasses-Prototype
+# Anti-Epilepsy-Glasses-Prototype
 Overview
 
 This project is an analog smart glasses prototype designed to protect users from sudden high-intensity light exposure, which can trigger photosensitive epilepsy.
